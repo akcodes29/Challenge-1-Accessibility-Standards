@@ -5,7 +5,7 @@ This repository is Module 1 Challenge. The client is the marketing agency, Horis
 
 ## Credits
 
-N/A
+I recieved the initial code from the UCF Coding Bootcamp curriculum. 
 
 ## License
 
