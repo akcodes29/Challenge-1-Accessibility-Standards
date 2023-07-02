@@ -10,3 +10,9 @@ N/A
 ## License
 
 N/A
+
+##Testing
+
+Link to deployed webpage: https://akcodes29.github.io/Horiseon-Accessibility-Standards/#social-media-marketing
+
+![image](https://github.com/akcodes29/Horiseon-Accessibility-Standards/assets/136099415/e4f955ef-a984-405a-a18c-8b1124f66470)
